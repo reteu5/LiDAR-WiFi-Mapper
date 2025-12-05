@@ -145,26 +145,6 @@ lint/tmp/
 *.ipr
 .idea_modules/
 out/
-.idea/workspace.xml
-.idea/tasks.xml
-.idea/dictionaries/
-.idea/shelf/
-.idea/dataSources.ids
-.idea/dataSources.xml
-.idea/dataSources.local.xml
-.idea/sqlDataSources.xml
-.idea/dynamic.xml
-.idea/uiDesigner.xml
-.idea/gradle.xml
-.idea/libraries/
-.idea/jarRepositories.xml
-.idea/compiler.xml
-.idea/misc.xml
-.idea/modules.xml
-.idea/assetWizardSettings.xml
-.idea/deploymentTargetDropDown.xml
-.idea/kotlinc.xml
-.idea/navEditor.xml
 
 # Visual Studio Code
 .vscode/
