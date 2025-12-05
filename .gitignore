@@ -49,7 +49,6 @@ Package.resolved
 # CocoaPods
 ios/Pods/
 Podfile.lock
-*.podspec
 
 # Carthage
 Carthage/Build/
@@ -96,14 +95,12 @@ android/release/
 # Gradle files
 .gradle/
 build/
-*/build/
 
 # Local configuration file (sdk path, etc)
 local.properties
 
 # Android Studio
 .idea/
-.idea/*
 *.iml
 *.iws
 *.ipr
