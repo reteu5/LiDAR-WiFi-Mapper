@@ -1,0 +1,213 @@
+# ===========================
+# macOS and System Files
+# ===========================
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# ===========================
+# iOS / Xcode / Swift
+# ===========================
+
+# Xcode
+build/
+DerivedData/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata/
+*.xccheckout
+*.moved-aside
+*.xcuserstate
+*.xcscmblueprint
+
+# Swift Package Manager
+.swiftpm/
+.build/
+Packages/
+Package.pins
+Package.resolved
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+
+# CocoaPods
+ios/Pods/
+Podfile.lock
+*.podspec
+
+# Carthage
+Carthage/Build/
+Carthage/Checkouts/
+
+# fastlane
+ios/fastlane/report.xml
+ios/fastlane/Preview.html
+ios/fastlane/screenshots/**/*.png
+ios/fastlane/test_output
+
+# Code Injection
+iOSInjectionProject/
+
+# Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# Swift
+*.swiftmodule
+*.swiftdoc
+
+# ===========================
+# Android / Gradle / Kotlin
+# ===========================
+
+# Built application files
+*.apk
+*.ap_
+*.aab
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+android/bin/
+android/gen/
+android/out/
+android/release/
+
+# Gradle files
+.gradle/
+build/
+*/build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Android Studio
+.idea/
+.idea/*
+*.iml
+*.iws
+*.ipr
+.navigation/
+captures/
+output.json
+
+# NDK
+obj/
+.externalNativeBuild
+.cxx/
+
+# IntelliJ
+out/
+
+# Keystore files
+*.jks
+*.keystore
+
+# External native build folder generated in Android Studio 2.2 and later
+.externalNativeBuild
+
+# Google Services (e.g. APIs or Firebase)
+google-services.json
+
+# Freeline
+freeline.py
+freeline/
+freeline_project_description.json
+
+# ProGuard
+proguard/
+
+# Lint
+lint-report.html
+lint-report_files/
+lint/intermediates/
+lint/generated/
+lint/outputs/
+lint/tmp/
+
+# Android Profiling
+*.hprof
+
+# ===========================
+# Common IDE / Editor Files
+# ===========================
+
+# Visual Studio Code
+.vscode/
+.history/
+
+# Vim
+*.swp
+*.swo
+*~
+
+# Emacs
+\#*\#
+.\#*
+
+# Sublime Text
+*.sublime-workspace
+*.sublime-project
+
+# ===========================
+# Build and Dependency Managers
+# ===========================
+
+# Node modules (if using React Native or web components)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# Python (if any build/automation scripts)
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+dist/
+
+# ===========================
+# Logs and Temporary Files
+# ===========================
+*.log
+*.tmp
+*.temp
+*.bak
+*.cache
+*.pid
+.sass-cache/
+
+# ===========================
+# Archives
+# ===========================
+*.zip
+*.tar.gz
+*.rar
+*.7z
