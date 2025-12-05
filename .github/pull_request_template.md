@@ -30,7 +30,7 @@
 - [ ] 모든 테스트 통과
 - [ ] 모든 commit push
 - [ ] Assignee 지정
-- [ ] Label 지정 
+- [ ] Label 지정
 
 ## Copilot Context & Instructions
 **If issues are detected, please check the corresponding box and propose a fix.**
