@@ -99,10 +99,6 @@ android/release/
 local.properties
 
 # Android Studio
-.idea/
-*.iml
-*.iws
-*.ipr
 .navigation/
 captures/
 output.json
@@ -111,9 +107,6 @@ output.json
 obj/
 .externalNativeBuild
 .cxx/
-
-# IntelliJ
-out/
 
 # Keystore files
 *.jks
@@ -144,6 +137,34 @@ lint/tmp/
 # ===========================
 # Common IDE / Editor Files
 # ===========================
+
+# JetBrains IDEs (IntelliJ IDEA, Android Studio, WebStorm, PyCharm, etc.)
+.idea/
+*.iml
+*.iws
+*.ipr
+.idea_modules/
+out/
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries/
+.idea/shelf/
+.idea/dataSources.ids
+.idea/dataSources.xml
+.idea/dataSources.local.xml
+.idea/sqlDataSources.xml
+.idea/dynamic.xml
+.idea/uiDesigner.xml
+.idea/gradle.xml
+.idea/libraries/
+.idea/jarRepositories.xml
+.idea/compiler.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/assetWizardSettings.xml
+.idea/deploymentTargetDropDown.xml
+.idea/kotlinc.xml
+.idea/navEditor.xml
 
 # Visual Studio Code
 .vscode/
